@@ -55,8 +55,8 @@ print(x['cutted_comment'] )
 #     stopwords_list = stopwords.split('\n')
 #     return stopwords_list
 #
-#
-stop_words = get_custom_stopwords(r'./cn_stopwords.txt')
+#sadasdsadasdas
+# stop_words = get_custom_stopwords(r'./cn_stopwords.txt')
 # # # 不去停用词
 # # 转化为由TF-IDF表达的权重信息构成的向量，创建向量模型
 # # vect = TfidfVectorizer(encoding='latin-1')
